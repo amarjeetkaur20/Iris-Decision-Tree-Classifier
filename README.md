@@ -1,1 +1,1 @@
-# Iris-Classifier-decision-tree
+# Iris-Decision-tree-classifier
